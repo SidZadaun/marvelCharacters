@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SysMedia</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_note">Add Note</string>
+    <string name="save">Save</string>
+    <string name="saved">Note Saved</string>
+    <string name="not_saved">Couldn\'t Save</string>
+    <string name="no_note">No notes</string>
+    <string name="note">Update Note</string>
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+    <string name="updated">Note Updated</string>
+    <string name="cap">Captain America is a superhero appearing in American comic books published by Marvel Comics. Created by cartoonists Joe Simon and Jack Kirby, the character first appeared in Captain America Comics #1 from Timely Comics, a predecessor of Marvel Comics.</string>
+    <string name="iron">Iron Man is a fictional superhero appearing in American comic books published by Marvel Comics. The character was co-created by writer and editor Stan Lee, developed by scripter Larry Lieber, and designed by artists Don Heck and Jack Kirby. The character made his first appearance in Tales of Suspense #39 (cover dated March 1963), and received his own title in Iron Man #1 (May 1968).</string>
+    <string name="thor">Thor was born to the King of the Asgardian Gods, Odin Borson, and the Earth Goddess Gaea. He grew up in Asgard under Odin\'s tutelage and trained in his footsteps to one day lead Asgard. When Siegmund took away another\'s wife, Frigga compelled Odin to kill Thor, but Thor survived as Siegmund\'s son Siegfried.</string>
+    <string name="hulk">The Hulk is a fictional superhero appearing in publications by the American publisher Marvel Comics. Created by writer Stan Lee and artist Jack Kirby, the character first appeared in the debut issue of The Incredible Hulk (May 1962). In his comic book appearances, the character is both the Hulk, a green-skinned, hulking and muscular humanoid possessing a vast degree of physical strength, and his alter ego Dr. Robert Bruce Banner, a physically weak, socially withdrawn, and emotionally reserved physicist. The two exist as independent dissociative personalities, and resent each other.</string>
+    <string name="nat">Natasha was born in Stalingrad (now Volgograd), Russian SFSR, USSR. The first and best-known Black Widow is a Russian agent trained as a spy, martial artist, and sniper, and outfitted with an arsenal of high-tech weaponry, including a pair of wrist-mounted energy weapons dubbed her "Widow's Bite".</string>
+    <string name="vision">Vision is a fictional superhero appearing in American comic books published by Marvel Comics. He is an android and a member of the Avengers who first appeared in The Avengers #57 (October 1968). He is loosely based on the Timely Comics character of the same name.</string>
+    <string name="wanda">The Scarlet Witch possesses abilities to alter reality in unspecified ways and is a powerful sorceress. The Scarlet Witch is later depicted as a regular member of the Avengers superhero team. She also becomes the wife of fellow superhero and teammate Vision, with whom she has two sons, Thomas and William.</string>
+    <string name="pan">Black Panther is the title held by T\'Challa, a member of the royal family of the fictional African country of Wakanda. After the death of his father, T\'Challa claimed the throne and the role of Black Panther. He was exposed to a mystical herb that enhanced his strength and agility to near-superhuman levels.</string>
+    <string name="spider">Spider-man is a fictional character appearing in comic books published by Marvel Comics. Spider-man was created by Stan Lee and Steve Ditko and first appeared in Amazing Fantasy #15(August 1962). Spider-man is considered as the best Marvel superhero and is referred to by titles such as Web-Slinger and Web-Head.
+Spider-man\'s alter ego is Peter Parker, a teenager who was orphaned at a very young age and was raised by his aunt and uncle. Spider-man was an immediate success since most of the readers were teenagers and could relate to him</string>
+    <string name="marvel">Former Air Force pilot and intelligence agent Carol Danvers pursued her dream of space exploration as a NASA employee, but her life forever changed when she was accidentally transformed into a human-Kree hybrid with extraordinary powers.</string>
+    <string name="thanos">Fictional character biography. Thanos was born on Saturn\'s moon Titan as the son of Eternals A\'lars and Sui-San; his brother is Eros of Titan. … By adolescence, Thanos had become fascinated with nihilism and death, worshipping and eventually falling in love with the physical embodiment of death, Mistress Death.</string>
+
+</resources>
